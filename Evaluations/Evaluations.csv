@@ -1,0 +1,10 @@
+file;label;safety_violations_observed;runs;fraction_unsafe;smc_result
+OP 1024 Samples 0.2 G;skipped;1;1;1;"-"
+OP 1024 Samples 0.5 G;skipped;1;1;1;"-"
+OP 1024 Samples 1.0 G;skipped;1;1;1;"-"
+OP 243 Samples 0.2 G;skipped;1;1;1;"-"
+OP 243 Samples 0.5 G;skipped;1;1;1;"-"
+OP 243 Samples 1.0 G;skipped;1;1;1;"-"
+OP 32 Samples 0.2 G;skipped;1;1;1;"-"
+OP 32 Samples 0.5 G;skipped;1;1;1;"-"
+OP 32 Samples 1.0 G;skipped;1;1;1;"-"
